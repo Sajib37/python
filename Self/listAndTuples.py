@@ -38,3 +38,5 @@ list2.append(14)
 list2.pop(4)  # the value of index 4 will be removed. If no index will be there, it will remove last element
 list2.remove(14) # It will remove specific value. here, 3 will be removed from the list.
 print("After remove list: ", list2)
+
+
