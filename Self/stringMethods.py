@@ -17,6 +17,7 @@ print(str2[2:4])
 
 # negative Slicing
 print("negative slicing: ",str2[-5:-1])
+print("negative slicing2: ",str2[-5:0])
 
 
 str3= "bangladesh is agricultural country and country"
